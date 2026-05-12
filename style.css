@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+.topo-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 80px;
+    border-bottom: 1px solid #CCC;
+}
+
+.logo {
+   
+}
+
+.logo img{
+    width: 140px;
+    display: block;
+}
+
+.busca {
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    border: 1px solid #999;
+    border-radius: 2px;
+    padding: 8px 15px;
+    width: 400px;
+    margin-right: 30px;
+}
+
+.busca input {
+    order: none;
+    outline: none;
+    background: transparent;
+    width: 100%;
+    font-size: 14px;
+}
+
+.busca i {
+    color: #000;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.icones {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.icones i {
+    font-size: 22px;
+    color: #000;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.icones i:hover{
+    color: #ff6600;
+}
+
+nav {
+    padding: 15px 5%;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ff6600;
+}
