@@ -55,5 +55,66 @@
         </nav>
 
     </header>
+
+    <section class="area-carrossel">
+
+        <div class="carrossel">
+
+            <div class="slides" id="slides">
+
+                <div class="slide">
+                    <img src="img/bannerfobel.webp">
+                </div>
+
+                <div class="slide">
+                    <img src="img/konabanner.webp">
+                </div>
+
+            </div>
+
+            <button class="btn anterior" onclick="voltar()">❮</button>
+            <button class="btn proximo" onclick="avancar()">❯</button>
+        </div>
+
+    </section>
+
+    <script>
+
+        let slide = 0;
+
+        const totalSlides = document.querySelectorAll('.slide').length;
+
+        function mostrarSlide(){
+
+            const slides = document.getElementById("slides");
+
+            slides.style.transform = `translateX(-${slide * 100}%)`;
+        }
+
+        function avancar(){
+
+            slide++;
+
+            if(slide > totalSlides){
+                slide = 0;
+            }
+
+            mostrarSlide();
+        }
+
+        function voltar(){
+
+            slide--;
+
+            if(slide < 0){
+                slide = totalSlides - 1;
+            }
+
+            mostrarSlide();
+        }
+
+        setInterval(avancar, 12000);
+
+    </script>
 </body>
 </html>
