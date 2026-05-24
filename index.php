@@ -14,7 +14,7 @@
 
             <div class="logo">
                     <a href="index.php" title="Home" alt="Home">
-                        <img src="img/logobefitescura.jpeg" title="Logo" alt="Logo">
+                        <img src="img/logobefitclara.jpeg" title="Logo" alt="Logo">
                     </a>
             </div>
 
@@ -79,7 +79,7 @@
     </section>
 
     <section class="raquetes">
-
+        <h3>Raquetes Beach Tennis</h3>
         <div class="raquetes-grid">
 
             <div class="raquetes-blocos">
