@@ -104,14 +104,14 @@
 
             const slides = document.getElementById("slides");
 
-            slides.style.transform = `translateX(-${slide * 100}%)`;
+            slides.style.transform = `translateX(-${slide * 100}vw)`;
         }
 
         function avancar(){
 
             slide++;
 
-            if(slide > totalSlides){
+            if(slide >= totalSlides){
                 slide = 0;
             }
 
