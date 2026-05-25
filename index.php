@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-    
+
     <section class="area-carrossel">
 
         <div class="carrossel">
@@ -91,6 +91,8 @@
         </div>
 
     </section>
+
+    <?php include 'footer.php'; ?>
 
     <script>
 

@@ -101,6 +101,7 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;;
     margin-top: 120px;
+    overflow: hidden;
 }
 
 .carrossel{
@@ -236,4 +237,36 @@ nav ul li a:hover {
 
 .botao-comprar:hover {
     background-color: #134074;
+}
+
+.footer {
+    background-color: #FFF;
+    color :#000;
+    border-top: 1px solid #999;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 80px;
+}
+
+.footer p {
+    font-size: 14px;
+}
+
+.bandeiras-pagamento {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bandeiras-pagamento img {
+    width: 60px;
+    height: 40px;
+    object-fit: contain;
+    background: #FFF;
+    padding: 5px;
+    border-radius: 8px;
 }
