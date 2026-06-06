@@ -4,7 +4,7 @@ function avancarRaquete() {
 
     posicao++;
 
-    document.getElementById("raquetes-grid").style.transform = `translateX(-${posicao * 240}px)`;
+    document.getElementById("raquetes-grid").style.transform = `translateX(-${posicao * 100}%)`;
 }
 
 function voltarRaquete() {
@@ -13,7 +13,7 @@ function voltarRaquete() {
 
         posicao--;
 
-        document.getElementById("raquetesGrid").style.transform = `translateX(-${posicao * 240}px)`;
+        document.getElementById("raquetes-grid").style.transform = `translateX(-${posicao * 100}%)`;
     }
 }
 

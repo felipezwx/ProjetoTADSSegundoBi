@@ -177,7 +177,7 @@ nav ul li a:hover {
 }
 
 .raquetes-janela {
-    width: 1200px;
+    width: 1520px;
     overflow: hidden;
 }
 
@@ -188,8 +188,7 @@ nav ul li a:hover {
 }
 
 .raquetes-blocos {
-    min-width: 220px;
-    flex-shrink: 0;
+    flex: 0 0 calc((100% - 80px) / 5);
     background-color: #fff;
     border: 1px solid #ebebeb;
     border-radius: 8px;
@@ -202,7 +201,7 @@ nav ul li a:hover {
 
 .raquetes-imagens {
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     height: 220px;
     display: flex;
     align-items: center;

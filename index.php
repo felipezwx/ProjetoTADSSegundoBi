@@ -96,6 +96,84 @@
                         <button class="botao-comprar">Comprar</button>
                     </div>
 
+                    <div class="raquetes-blocos">
+                        <div class="raquetes-imagens">
+                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                        </div>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+
+                        <div class="raquetes-preco">
+                        <strong>R$ 2.159,90</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="raquetes-blocos">
+                        <div class="raquetes-imagens">
+                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                        </div>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+
+                        <div class="raquetes-preco">
+                        <strong>R$ 2.159,90</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="raquetes-blocos">
+                        <div class="raquetes-imagens">
+                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                        </div>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+
+                        <div class="raquetes-preco">
+                        <strong>R$ 2.159,90</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="raquetes-blocos">
+                        <div class="raquetes-imagens">
+                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                        </div>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+
+                        <div class="raquetes-preco">
+                        <strong>R$ 2.159,90</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="raquetes-blocos">
+                        <div class="raquetes-imagens">
+                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                        </div>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+
+                        <div class="raquetes-preco">
+                        <strong>R$ 2.159,90</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="raquetes-blocos">
+                        <div class="raquetes-imagens">
+                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                        </div>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+
+                        <div class="raquetes-preco">
+                        <strong>R$ 2.159,90</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                    </div>
+
                 </div>
 
             </div>
