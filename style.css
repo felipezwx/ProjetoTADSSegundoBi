@@ -170,16 +170,26 @@ nav ul li a:hover {
     font-size: 22px;
 }
 
+.raquetes-carrossel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.raquetes-janela {
+    width: 1200px;
+    overflow: hidden;
+}
+
 .raquetes-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    display: flex;
     gap: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+    transition: transform 0.5s ease;
 }
 
 .raquetes-blocos {
+    min-width: 220px;
+    flex-shrink: 0;
     background-color: #fff;
     border: 1px solid #ebebeb;
     border-radius: 8px;
@@ -243,6 +253,17 @@ nav ul li a:hover {
 
 .botao-comprar:hover {
     background-color: #134074;
+}
+
+.btn-raquete {
+    background-color: #0b2545;
+    color: white;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 50%;
+    margin: 0 10px;
 }
 
 .footer {
