@@ -33,6 +33,40 @@ function moverRaquete() {
     grid.style.transform = `translateX(-${deslocamento}px)`
 }
 
+let posicaoMasculino = 0;
+
+function avancarMasculino() {
+    const grid = document.getElementById("roupas-masculinas-grid");
+    const totalItens = grid.children.length;
+    const itensPorPaginas = 5;
+    const totalPaginas = Math.ceil(totalItens / itensPorPaginas);
+
+    if (posicaoMasculino < totalPaginas - 1) {
+        posicaoMasculino++;
+        moverMasculino();
+    }
+}
+
+function voltarMasculino() {
+    
+    if (posicaoMasculino > 0) {
+        posicaoMasculino--;
+        moverMasculino();
+    }
+}
+
+function moverMasculino() {
+
+    const grid = document.getElementById("roupas-masculinas-grid");
+    const gap = 20;
+    const itensPorPaginas = 5;
+
+    const itemLargura = grid.children[0].offsetWidth + gap;
+    const deslocamento = posicaoMasculino * (itemLargura * itensPorPaginas);
+
+    grid.style.transform = `translateX(-${deslocamento}px)`
+}
+
 let slide = 0;
 
 const totalSlides = document.querySelectorAll('.slide').length;
