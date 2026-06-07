@@ -341,6 +341,80 @@ nav ul li a:hover {
     color: #000;
 }
 
+.roupas-femininas h3 {
+    text-align: center;
+    margin: 60px 0 40px 0;
+    font-size: 22px;
+}
+
+.roupas-femininas-carrossel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roupas-femininas-janela {
+    width: 1520px;
+    overflow: hidden;
+}
+
+.roupas-femininas-grid {
+    display: flex;
+    gap: 20px;
+    transition: transform 0.5s ease;
+}
+
+.roupas-femininas-blocos {
+    flex: 0 0 calc((100% - 80px) / 5);
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.roupas-femininas-imagens {
+    text-align: center;
+    margin-bottom: 5px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roupas-femininas-imagens img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.roupas-femininas-nome {
+    font-size: 14px;
+    font-weight: normal;
+    color: #333;
+    margin: 0 0 15px 0;
+    line-height: 1.4;
+    min-height: 50px; 
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-align: center;
+}
+
+.roupas-femininas-preco {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.roupas-femininas-preco strong {
+    font-size: 20px;
+    color: #000;
+}
+
+
 .footer {
     background-color: #FFF;
     color :#000;
