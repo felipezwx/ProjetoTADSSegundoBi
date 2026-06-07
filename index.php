@@ -268,6 +268,89 @@
         </div>
     </section>
 
+    <section class="roupas-femininas">
+        <h3>Roupas Femininas</h3>
+
+        <div class="roupas-femininas-carrossel">
+
+            <button class="btn-raquete" onclick="voltarRaquete()">❮</button>
+
+            <div class="roupas-femininas-janela">
+
+                <div class="roupas-femininas-grid" id="roupas-femininas-grid">
+
+                    <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
+                        <div class="roupas-femininas-imagens">
+                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                            </div>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+
+                            <div class="roupas-femininas-preco">
+                                <strong>R$ 199,00</strong>
+                            </div>
+
+                            <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
+                        <div class="roupas-femininas-imagens">
+                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                            </div>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+
+                            <div class="roupas-femininas-preco">
+                                <strong>R$ 239,00</strong>
+                            </div>
+
+                            <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
+                        <div class="roupas-femininas-imagens">
+                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                            </div>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+
+                            <div class="roupas-femininas-preco">
+                                <strong>R$ 539,00</strong>
+                            </div>
+
+                            <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
+                        <div class="roupas-femininas-imagens">
+                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                            </div>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+
+                            <div class="roupas-femininas-preco">
+                                <strong>R$ 359,00</strong>
+                            </div>
+
+                            <button class="botao-comprar">Comprar</button>
+                    </div>
+
+                    <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
+                        <div class="roupas-femininas-imagens">
+                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                            </div>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+
+                            <div class="roupas-femininas-preco">
+                                <strong>R$ 359,00</strong>
+                            </div>
+
+                            <button class="botao-comprar">Comprar</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <button class="btn-raquete" onclick="avancarRaquete()">❯</button>
+        </div>
+    </section>
+
     <?php include 'footer.php'; ?>
 
     <script src="carrossel.js"></script>
