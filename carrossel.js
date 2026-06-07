@@ -2,19 +2,35 @@ let posicao = 0;
 
 function avancarRaquete() {
 
-    posicao++;
+    const grid = document.getElementById("raquetes-grid");
+    const totalItens = grid.children.length;
+    const itensPorPaginas = 5;
+    const totalPaginas = Math.ceil(totalItens / itensPorPaginas);
 
-    document.getElementById("raquetes-grid").style.transform = `translateX(-${posicao * 100}%)`;
+    if (posicao < totalPaginas - 1) {
+        posicao++;
+        moverRaquete();
+    }
 }
 
 function voltarRaquete() {
-
+    
     if (posicao > 0) {
-
         posicao--;
-
-        document.getElementById("raquetes-grid").style.transform = `translateX(-${posicao * 100}%)`;
+        moverRaquete();
     }
+}
+
+function moverRaquete() {
+
+    const grid = document.getElementById("raquetes-grid");
+    const gap = 20;
+    const itensPorPaginas = 5;
+
+    const itemLargura = grid.children[0].offsetWidth + gap;
+    const deslocamento = posicao * (itemLargura * itensPorPaginas);
+
+    grid.style.transform = `translateX(-${deslocamento}px)`
 }
 
 let slide = 0;

@@ -177,7 +177,8 @@ nav ul li a:hover {
 }
 
 .raquetes-janela {
-    width: 1520px;
+    width: 100%;
+    max-width: 1520px;
     overflow: hidden;
 }
 
@@ -185,6 +186,8 @@ nav ul li a:hover {
     display: flex;
     gap: 20px;
     transition: transform 0.5s ease;
+    margin: 0;
+    padding: 0;
 }
 
 .raquetes-blocos {
@@ -263,6 +266,79 @@ nav ul li a:hover {
     padding: 10px 15px;
     border-radius: 50%;
     margin: 0 10px;
+}
+
+.roupas-masculino h3 {
+    text-align: center;
+    margin: 60px 0 40px 0;
+    font-size: 22px;
+}
+
+.roupas-masculinas-carrossel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roupas-masculinas-janela {
+    width: 1520px;
+    overflow: hidden;
+}
+
+.roupas-masculinas-grid {
+    display: flex;
+    gap: 20px;
+    transition: transform 0.5s ease;
+}
+
+.roupas-masculinas-blocos {
+    flex: 0 0 calc((100% - 80px) / 5);
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.roupas-masculinas-imagens {
+    text-align: center;
+    margin-bottom: 5px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roupas-masculinas-imagens img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.roupa-masculina-nome {
+    font-size: 14px;
+    font-weight: normal;
+    color: #333;
+    margin: 0 0 15px 0;
+    line-height: 1.4;
+    min-height: 50px; 
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-align: center;
+}
+
+.roupa-masculina-preco {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.roupa-masculina-preco strong {
+    font-size: 20px;
+    color: #000;
 }
 
 .footer {
