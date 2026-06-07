@@ -184,6 +184,32 @@
 
     </section>
 
+    <section class="roupas-masculino">
+        <h3>Roupas Masculinas</h3>
+
+        <div class="roupas-masculinas-carrossel">
+
+            <button class="btn-raquete" onclick="voltarRaquete()">❮</button>
+
+            <div class="roupas-masculinas-janela">
+
+                <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
+                    <div class="roupas-masculinas-imagens">
+                            <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                        </div>
+                        <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+
+                        <div class="roupa-masculina-preco">
+                            <strong>R$ 139,00</strong>
+                        </div>
+
+                        <button class="botao-comprar">Comprar</button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <?php include 'footer.php'; ?>
 
     <script src="carrossel.js"></script>

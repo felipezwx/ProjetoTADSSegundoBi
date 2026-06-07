@@ -255,8 +255,8 @@ nav ul li a:hover {
 }
 
 .btn-raquete {
-    background-color: #0b2545;
-    color: white;
+    background: transparent;
+    color: #333;
     border: none;
     font-size: 24px;
     cursor: pointer;
