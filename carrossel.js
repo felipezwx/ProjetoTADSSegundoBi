@@ -67,6 +67,40 @@ function moverMasculino() {
     grid.style.transform = `translateX(-${deslocamento}px)`
 }
 
+let posicaoFeminino = 0;
+
+function avancarFeminino() {
+    const grid = document.getElementById("roupas-femininas-grid");
+    const totalItens = grid.children.length;
+    const itensPorPaginas = 5;
+    const totalPaginas = Math.ceil(totalItens / itensPorPaginas);
+
+    if (posicaoFeminino < totalPaginas - 1) {
+        posicaoFeminino++;
+        moverFeminino();
+    }
+}
+
+function voltarFeminino() {
+    
+    if (posicaoFeminino > 0) {
+        posicaoFeminino--;
+        moverFeminino();
+    }
+}
+
+function moverFeminino() {
+
+    const grid = document.getElementById("roupas-femininas-grid");
+    const gap = 20;
+    const itensPorPaginas = 5;
+
+    const itemLargura = grid.children[0].offsetWidth + gap;
+    const deslocamento = posicaoFeminino * (itemLargura * itensPorPaginas);
+
+    grid.style.transform = `translateX(-${deslocamento}px)`
+}
+
 let slide = 0;
 
 const totalSlides = document.querySelectorAll('.slide').length;

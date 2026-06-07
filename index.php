@@ -338,7 +338,7 @@
 
         <div class="roupas-femininas-carrossel">
 
-            <button class="btn-raquete" onclick="voltarRaquete()">❮</button>
+            <button class="btn-raquete" onclick="voltarFeminino()">❮</button>
 
             <div class="roupas-femininas-janela">
 
@@ -412,7 +412,7 @@
 
             </div>
 
-            <button class="btn-raquete" onclick="avancarRaquete()">❯</button>
+            <button class="btn-raquete" onclick="avancarFeminino()">❯</button>
         </div>
     </section>
 
