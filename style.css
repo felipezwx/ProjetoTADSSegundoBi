@@ -445,3 +445,65 @@ nav ul li a:hover {
     padding: 5px;
     border-radius: 8px;
 }
+
+.produto{
+    max-width: 1200px;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 20px;
+    margin-top: 300px;
+}
+
+.produto-imagem{
+    flex: 1;
+    text-align: center;
+}
+
+.produto-imagem img{
+    max-width: 100%;
+    width: 250px;
+    height: auto;
+}
+
+.produto-info{
+    flex: 1;
+}
+
+.produto-info h1{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.produto-info p{
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.produto-info h2{
+    font-size: 36px;
+    color: #0b2545;
+    margin-bottom: 20px;
+}
+
+.btn-whatsapp{
+    display: inline-block;
+    background: #25D366;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-voltar{
+    display: inline-block;
+    background: #0b2545;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
