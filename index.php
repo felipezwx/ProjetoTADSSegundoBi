@@ -99,20 +99,24 @@
                         <strong>R$ 2.159,90</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetefobelhusky.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
                         <div class="raquetes-imagens">
-                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                            <img src="img/raquetefobelfox.png" alt="Raquete de Beach Tennis Fobel Fox">
                         </div>
-                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Fox 2025</h3>
 
                         <div class="raquetes-preco">
-                        <strong>R$ 2.159,90</strong>
+                        <strong>R$ 2.019,90</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetefobelfox.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
