@@ -391,17 +391,19 @@
                             <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 199,00</strong>
+                                <strong>R$ 359,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/vestido-mormaii-vitoria-marchezini.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Macaquinho Mormarii Vitoria Marchezini">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Vitória Marchezini</h3>
 
                             <div class="roupas-femininas-preco">
                                 <strong>R$ 239,00</strong>
@@ -412,15 +414,17 @@
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/saiakonabasic.png" alt="Saia Feminina Kona Basic">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Saia Feminina Kona Basic</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 539,00</strong>
+                                <strong>R$ 149,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/saia-kona-basic.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
