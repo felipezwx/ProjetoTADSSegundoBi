@@ -232,67 +232,77 @@
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camisetakonapretaedourado.png" alt="Camiseta Kona Preta e Dourado">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Kona Preta e Dourado</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 159,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-kona-preta-e-dourado.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/shortsmasculinodropshotpreto.webp" alt="Short Preto Drop Shot">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Short Drop Shot Preto Team Pro W25</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 134,90</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/short-preto-drop-shot.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camisetapolonox.png" alt="Camiseta Polo Nox Masculina Esportiva">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Polo Nox Masculina Esportiva</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 339,80</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-polo-nox.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camiseta-fobel-preta.png" alt="Camiseta Fobel Preta">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Fobel Preta</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 149,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-preta-fobel.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camisetazandzjumppreta.png" alt="Camiseta Zand Z Jump Preta">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Jump Preta</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 129,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-zand-z-jump.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
