@@ -401,15 +401,17 @@
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Macaquinho Mormarii Vitoria Marchezini">
+                                <img src="img/topdropshot.png" alt="Top alcinha Drop Shot Basic Preto">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Top alcinha Drop Shot Basic Preto</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 239,00</strong>
+                                <strong>R$ 129,90</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/top-drop-shot.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
