@@ -84,7 +84,9 @@
                             <strong>R$ 2.499,00</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetekonagladiator.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
