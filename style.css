@@ -467,6 +467,12 @@ nav ul li a:hover {
     height: auto;
 }
 
+.produto-imagem-starlight img{
+    max-width: 100%;
+    width: 550px;
+    height: auto;
+}
+
 .produto-info{
     flex: 1;
 }

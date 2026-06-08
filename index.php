@@ -69,7 +69,9 @@
                             <strong>R$ 3.499,00</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raqueteheroesstarlight.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
