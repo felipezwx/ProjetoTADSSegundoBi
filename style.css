@@ -479,6 +479,13 @@ nav ul li a:hover {
     height: auto;
 }
 
+.produto-imagem-macaw img{
+    max-width: 100%;
+    width: 450px;
+    height: auto;
+}
+
+
 .produto-info{
     flex: 1;
 }

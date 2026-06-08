@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raquete Fobel Fox</title>
+    <title>Raquete Zand Z Jump</title>
 
     <link rel="stylesheet" type="text/css" href="../style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -14,20 +14,20 @@
     <section class="produto">
 
         <div class="produto-imagem-husky">
-            <img src="/ProjetoTADSSegundoBi/img/raquetefobelfox.png">
+            <img src="/ProjetoTADSSegundoBi/img/raquetezandzjump.jpeg">
         </div>
 
         <div class="produto-info">
 
-            <h1>Raquete de Beach Tennis Fobel Fox 2025</h1>
+            <h1>Raquete de Beach Tennis Zand Z Jump</h1>
          
             <p>
-                A Raquete de Beach Tennis Fobel Fox 2025 combina potência, controle e estabilidade para jogadores que buscam alto desempenho nas quadras. Com construção moderna e excelente absorção de impacto, oferece firmeza nos ataques, precisão nas defesas e máximo conforto durante o jogo. Ideal para atletas que querem elevar o nível com segurança e consistência.
+               A Z Jump 2026, raquete oficial do atleta Daniel Mola, chega com um design completamente renovado e performance ainda mais refinada para quem busca velocidade, resposta imediata e potência controlada nas quadras de beach tennis.
             </p>
 
-            <h2>R$ 2.019,90</h2>
+            <h2>R$ 2.200,90</h2>
 
-            <a href="https://wa.me/5544998501379?text=Olá,%20tenho%20interesse%20na%20Raquete%20Fobel%20Fox%202025"
+            <a href="https://wa.me/5544998501379?text=Olá,%20tenho%20interesse%20na%20Raquete%20Zand%20Z%20Jump%202026"
             class="btn-whatsapp">
                 Comprar pelo WhatsApp
             </a>

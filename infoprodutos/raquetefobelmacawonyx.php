@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raquete Fobel Fox</title>
+    <title>Raquete Fobel Macaw Onyx</title>
 
     <link rel="stylesheet" type="text/css" href="../style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -13,21 +13,22 @@
 
     <section class="produto">
 
-        <div class="produto-imagem-husky">
-            <img src="/ProjetoTADSSegundoBi/img/raquetefobelfox.png">
+        <div class="produto-imagem-macaw">
+            <img src="/ProjetoTADSSegundoBi/img/raquetefobelmacawonyx.png.png">
         </div>
 
         <div class="produto-info">
 
-            <h1>Raquete de Beach Tennis Fobel Fox 2025</h1>
+            <h1>Raquete de Beach Tennis Fobel Macaw Onyx - Limited Edition</h1>
          
             <p>
-                A Raquete de Beach Tennis Fobel Fox 2025 combina potência, controle e estabilidade para jogadores que buscam alto desempenho nas quadras. Com construção moderna e excelente absorção de impacto, oferece firmeza nos ataques, precisão nas defesas e máximo conforto durante o jogo. Ideal para atletas que querem elevar o nível com segurança e consistência.
+               Desenvolvida em colaboração com Gustavo Russo, a nova Macaw entrega máximo conforto, velocidade, precisão e durabilidade. Sua construção combina Carbono 12K em 45° com núcleo em EVA Soft, garantindo o equilíbrio perfeito entre explosão e controle – ideal para quem joga sério e quer voar alto nas quadras. Acompanha uma Bag exclusiva onyx.
+
             </p>
 
-            <h2>R$ 2.019,90</h2>
+            <h2>R$ 3.259,70</h2>
 
-            <a href="https://wa.me/5544998501379?text=Olá,%20tenho%20interesse%20na%20Raquete%20Fobel%20Fox%202025"
+            <a href="https://wa.me/5544998501379?text=Olá,%20tenho%20interesse%20na%20Raquete%20Fobel%20Macaw%Limited%20Edition"
             class="btn-whatsapp">
                 Comprar pelo WhatsApp
             </a>

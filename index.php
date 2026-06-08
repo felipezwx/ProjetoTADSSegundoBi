@@ -121,67 +121,77 @@
 
                     <div class="raquetes-blocos">
                         <div class="raquetes-imagens">
-                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                            <img src="img/raquetezandbruxo2026.jpeg" alt="Raquete de Beach Tennis Bruxo Antomi Ramos 2026">
                         </div>
-                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Zand Bruxo 2026</h3>
 
                         <div class="raquetes-preco">
-                        <strong>R$ 2.159,90</strong>
+                        <strong>R$ 2.789,10</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetezandbruxo2026.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
                         <div class="raquetes-imagens">
-                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                            <img src="img/raquetefobelmacawonyx.png.png" alt="Raquete de Beach Tennis Fobel Macaw Onyx - Limited Edition">
                         </div>
-                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Macaw Onyx - Limited Edition</h3>
 
                         <div class="raquetes-preco">
-                        <strong>R$ 2.159,90</strong>
+                        <strong>R$ 3.259,70</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetefobelmacawonyx.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
                         <div class="raquetes-imagens">
-                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                            <img src="img/raquetezandzjump.jpeg" alt="Raquete de Beach Tennis Zand Z Jump 2026">
                         </div>
-                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Zand Z Jump 2026</h3>
 
                         <div class="raquetes-preco">
-                        <strong>R$ 2.159,90</strong>
+                        <strong>R$ 2.200,90</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetezandzjump.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
                         <div class="raquetes-imagens">
-                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                            <img src="img/raquetevisionprecision.jpeg" alt="Raquete de Beach Tennis Vision Precision 2026">
                         </div>
-                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Vision Precision 2026</h3>
 
                         <div class="raquetes-preco">
-                        <strong>R$ 2.159,90</strong>
+                        <strong>R$ 1.789,90</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetevisionprecision.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
                         <div class="raquetes-imagens">
-                            <img src="img/raquetefobelhusky.png" alt="Raquete de Beach Tennis Fobel Husky">
+                            <img src="img/raquetedropshotnikita.jpeg" alt="Raquete de Beach Tennis Drop Shot CANYON PRO 3.0 2026 Nikita">
                         </div>
-                        <h3 class="raquete-nome">Raquete de Beach Tennis Fobel Husky 25/26</h3>
+                        <h3 class="raquete-nome">Raquete de Beach Tennis Drop Shot CANYON PRO 3.0 2026 Nikita</h3>
 
                         <div class="raquetes-preco">
-                        <strong>R$ 2.159,90</strong>
+                        <strong>R$ 2.229,30</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetedropshotnikita.php">
+                            <button class="botao-comprar">Comprar</button>
+                        </a>
                     </div>
 
                 </div>
