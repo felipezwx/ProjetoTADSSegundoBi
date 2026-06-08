@@ -225,7 +225,9 @@
                                 <strong>R$ 139,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camisetazandzextreme.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
