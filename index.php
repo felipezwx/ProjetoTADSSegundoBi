@@ -307,54 +307,62 @@
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camiseta-fobel-gustavorusso.png" alt="Camiseta Fobel Gustavo Russo">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Fobel Gustavo Russo</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 149,90</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-fobel-gustavo-russo.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camisetazeiqpreta.webp" alt="Camiseta Zeiq Preta">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Zeiq Preta</h3>
 
                             <div class="roupa-masculina-preco">
                                 <strong>R$ 139,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-zeiq-preta.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/shortskonapretobasic.png" alt="Short Kona Basic Preto">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Short Kona Basic Preto</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 149,90</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/short-kona-basic.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-masculinas-blocos" id ="roupas-masculinas-blocos">
                         <div class="roupas-masculinas-imagens">
-                                <img src="img/camisa-zand-extreme.png" alt="Camiseta Zand Z Extreme">
+                                <img src="img/camisetamormaiivinifont.jpeg" alt="Camiseta Mormaii Vini Font 2025">
                             </div>
-                            <h3 class="roupa-masculina-nome">Camiseta Zand Z Extreme</h3>
+                            <h3 class="roupa-masculina-nome">Camiseta Mormaii Vini Font 2025</h3>
 
                             <div class="roupa-masculina-preco">
-                                <strong>R$ 139,00</strong>
+                                <strong>R$ 255,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/camiseta-mormaii-vini-font.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                 </div>
