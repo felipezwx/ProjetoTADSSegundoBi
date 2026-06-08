@@ -13,8 +13,8 @@
         <div class="topo-header">
 
             <div class="logo">
-                    <a href="index.php" title="Home" alt="Home">
-                        <img src="img/logobefitclara.jpeg" title="Logo" alt="Logo">
+                    <a href="/ProjetoTADSSegundoBi/index.php" title="Home" alt="Home">
+                        <img src="/ProjetoTADSSegundoBi/img/logobefitclara.jpeg" title="Logo" alt="Logo">
                     </a>
             </div>
 

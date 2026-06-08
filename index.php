@@ -54,7 +54,9 @@
                         <strong>R$ 2.499,90</strong>
                         </div>
 
-                        <button class="botao-comprar">Comprar</button>
+                        <a href="infoprodutos/raquetevitoriamormaii.php">
+                            <button class="botao-comprar" >Comprar</button>
+                        </a>
                     </div>
 
                     <div class="raquetes-blocos">
