@@ -431,28 +431,32 @@
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/babylookzeiq.webp" alt="Baby Look Dry Leo Branco - Zeiq">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Baby Look Dry Leo Branco - Zeiq</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 359,00</strong>
+                                <strong>R$ 139,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/baby-look-zeiq.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/regatacroppedvitoriamarchezini.jpeg" alt="Regata Cropped Mormaii Vitoria Marchezini">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Regata Cropped Mormaii Vitoria Marchezini</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 359,00</strong>
+                                <strong>R$ 169,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/regata-cropped-vitoria-marchezini.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
