@@ -5,40 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contato</title>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <?php include 'header.php'; ?>
 
-    <section class="contato">
+    <section class="container py-5 contato">
 
-        <div class="contato-info">
-            
-            <h1>Contato</h1>
+    <h1 class="mb-5 titulo-contato">Contato</h1>
 
-            <div class="info-item">
-                <i class="fa-brands fa-whatsapp"></i>
-                <span>(44) 99850-1379</span>
-            </div>
+    <div class="row">
 
-            <div class="info-item">
-                <i class="fa-solid fa-phone"></i>
-                <span>(44) 11111-1111</span>
-            </div>
+        <div class="col-md-4">
+            <p><i class="fa-brands fa-whatsapp"></i> (44) 99999-9999</p>
+            <p><i class="fa-solid fa-phone"></i> (44) 3333-3333</p>
+            <p><i class="fa-solid fa-envelope"></i> contato@befit.com.br</p>
+            <p><i class="fa-solid fa-location-dot"></i> Avenida Arnaldo Ercket, 530</p>
+        </div>
 
-            <div class="info-item">
-                <i class="fa-regular fa-envelope"></i>
-                <span>befit@gmail.com</span>
-            </div>
+        <div class="col-md-8">
 
-            <div class="info-item">
-                <i class="fa-solid fa-location-dot"></i>
-                <span>Perimetral Tancredo Neves, 1735</span>
-            </div>
+            <form>
 
-        </div
+                <div class="mb-3">
+                    <label class="form-label">Nome</label>
+                    <input type="text" class="form-control" placeholder="Ex.: Maria Silva">
+                </div>
 
-    </section>
+                <div class="mb-3">
+                    <label class="form-label">E-mail</label>
+                    <input type="email" class="form-control" placeholder="Ex.: maria@email.com">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Telefone</label>
+                    <input type="text" class="form-control" placeholder="(44) 99999-9999">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Mensagem</label>
+                    <textarea class="form-control" rows="5" placeholder="Digite sua mensagem"></textarea>
+                </div>
+
+            </form>
+
+            <button class="btn-enviar">
+                Enviar
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
 </body>
 </html>

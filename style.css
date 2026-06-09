@@ -528,32 +528,13 @@ nav ul li a:hover {
 }
 
 .contato {
+    margin-top: 140px;
     max-width: 1200px;
-    margin: 60px auto;
-    padding: 20px;
-    display: flex;
-    gap: 80px;
 }
 
-.contato-info {
-    width: 35%;
-}
-
-.contato-info h1 {
+.titulo-contato {
     font-size: 48px;
-    margin-bottom: 40px;
-    color: #333;
-}
-
-.info-item {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-bottom: 25px;
-    font-size: 18px;
-}
-
-.info-item i{
-    color: #0b2545;
-    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 50px;
 }
