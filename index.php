@@ -461,67 +461,77 @@
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/topalcafinamormaii.png" alt="Top Alca Fina Mormaii Rosa">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Top Alca Fina Mormaii Rosa</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 359,00</strong>
+                                <strong>R$ 128,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/top-alca-fina-mormaii-rosa.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/regatacroppedpreto.jpeg" alt="Regata Feminina Cropped Mormaii 2776">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Regata Feminina Cropped Mormaii 2776</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 359,00</strong>
+                                <strong>R$ 99,90</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/regata-cropped-mormaii-preta.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/topfemininofobel.png" alt="Top Feminino Move Fobel">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Top Feminino Move Fobel</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 359,00</strong>
+                                <strong>R$ 149,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/top-feminino-fobel.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/shortfemininofobel.png" alt="Short Feminino Move Fobel">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Short Feminino Move Fobel</h3>
 
                             <div class="roupas-femininas-preco">
-                                <strong>R$ 359,00</strong>
+                                <strong>R$ 149,90</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/short-feminino-fobel.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
 
                     <div class="roupas-femininas-blocos" id ="roupas-femininas-blocos">
                         <div class="roupas-femininas-imagens">
-                                <img src="img/vestido-mormaii-vitoriamarchezini.png" alt="Vestido Mormarii Vitoria Marchezini">
+                                <img src="img/vestido-mormaii-vitoriamarchezini-branco.png" alt="Vestido Mormarii Vitoria Marchezini Branco">
                             </div>
-                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini</h3>
+                            <h3 class="roupas-femininas-nome">Vestido Macaquinho Mormaii Beach Tennis Vitória Marchezini Branco</h3>
 
                             <div class="roupas-femininas-preco">
                                 <strong>R$ 359,00</strong>
                             </div>
 
-                            <button class="botao-comprar">Comprar</button>
+                            <a href="infoprodutos/vestido-mormaii-vitoria-marchezini-branco.php">
+                                <button class="botao-comprar">Comprar</button>
+                            </a>
                     </div>
                 </div>
 
