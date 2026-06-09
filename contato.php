@@ -20,10 +20,10 @@
     <div class="row">
 
         <div class="col-md-4">
-            <p><i class="fa-brands fa-whatsapp"></i> (44) 99999-9999</p>
-            <p><i class="fa-solid fa-phone"></i> (44) 3333-3333</p>
-            <p><i class="fa-solid fa-envelope"></i> contato@befit.com.br</p>
-            <p><i class="fa-solid fa-location-dot"></i> Avenida Arnaldo Ercket, 530</p>
+            <p><i class="fa-brands fa-whatsapp"></i> (44) 99850-1379</p>
+            <p><i class="fa-solid fa-phone"></i> (44) 1111-1111</p>
+            <p><i class="fa-solid fa-envelope"></i> befit@gmail.com</p>
+            <p><i class="fa-solid fa-location-dot"></i> Perimetral Tancredo Neves, 1735</p>
         </div>
 
         <div class="col-md-8">
@@ -32,12 +32,12 @@
 
                 <div class="mb-3">
                     <label class="form-label">Nome</label>
-                    <input type="text" class="form-control" placeholder="Ex.: Maria Silva">
+                    <input type="text" class="form-control" placeholder="Nome Compreto">
                 </div>
 
                 <div class="mb-3">
                     <label class="form-label">E-mail</label>
-                    <input type="email" class="form-control" placeholder="Ex.: maria@email.com">
+                    <input type="email" class="form-control" placeholder="Digite seu email">
                 </div>
 
                 <div class="mb-3">
@@ -52,7 +52,7 @@
 
             </form>
 
-            <button class="btn-enviar">
+            <button type="submit" class="btn-enviar">
                 Enviar
             </button>
 

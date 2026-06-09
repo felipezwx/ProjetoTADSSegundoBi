@@ -538,3 +538,18 @@ nav ul li a:hover {
     color: #000;
     margin-bottom: 50px;
 }
+
+.btn-enviar {
+    background-color: #0b2b57;
+    color: white;
+    border: none;
+    padding: 12px 35px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-enviar:hover {
+    background-color: #143d75;
+}
