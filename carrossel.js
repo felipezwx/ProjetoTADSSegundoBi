@@ -117,7 +117,7 @@ function avancar(){
     slide++;
 
      if(slide >= totalSlides){
-        lide = 0;
+        slide = 0;
 }
 
     mostrarSlide();
