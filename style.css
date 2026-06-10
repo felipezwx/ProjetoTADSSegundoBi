@@ -60,6 +60,18 @@ header {
     font-size: 16px;
 }
 
+.busca button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+}
+
+.busca button i {
+    color: #000;
+    font-size: 16px;
+}
+
 .icones {
     display: flex;
     align-items: center;

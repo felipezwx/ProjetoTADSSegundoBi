@@ -18,10 +18,13 @@
                     </a>
             </div>
 
-            <div class="busca">
-                <input type="text" placeholder="Buscar">
-                <i class="fa-solid fa-magnifying-glass"></i>
-            </div>      
+            <form class="busca" action="/ProjetoTADSSegundoBi/buscar.php" method="GET">
+                <input type="text" name="busca" placeholder="Buscar">
+
+                <button type="submit">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </button>
+            </form>      
             
             <div class="icones">
                 <div class="icon-user">
