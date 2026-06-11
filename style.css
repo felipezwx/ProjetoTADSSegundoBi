@@ -565,3 +565,21 @@ nav ul li a:hover {
 .btn-enviar:hover {
     background-color: #143d75;
 }
+
+.titulo-busca {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.resultado-card {
+    border: 1px solid #000;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.resultado-card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
