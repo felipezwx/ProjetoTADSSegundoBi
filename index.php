@@ -27,8 +27,8 @@
 
             </div>
 
-            <button class="btn anterior" onclick="voltar()">❮</button>
-            <button class="btn proximo" onclick="avancar()">❯</button>
+            <button class="btn-slide anterior" onclick="voltar()">❮</button>
+            <button class="btn-slide proximo" onclick="avancar()">❯</button>
         </div>
 
     </section>

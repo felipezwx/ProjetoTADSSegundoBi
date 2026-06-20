@@ -45,7 +45,7 @@
                     <a href="#">Inicio</a>
                 </li>
                 <li>
-                    <a href="#">Produtos</a>
+                    <a href="produtos.php">Produtos</a>
                 </li>
                 <li>
                     <a href="#">Novidades</a>
