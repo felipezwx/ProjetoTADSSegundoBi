@@ -42,19 +42,16 @@
         <nav>
             <ul>
                 <li>
-                    <a href="#">Inicio</a>
+                    <a href="index.php">Inicio</a>
                 </li>
                 <li>
                     <a href="produtos.php">Produtos</a>
                 </li>
                 <li>
-                    <a href="#">Novidades</a>
-                </li>
-                <li>
                     <a href="contato.php">Contato</a>
                 </li>
                 <li>
-                    <a href="#">Quem Somos</a>
+                    <a href="quemsomos.php">Quem Somos</a>
                 </li>
             </ul>
         </nav>

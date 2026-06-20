@@ -653,3 +653,51 @@ nav ul li a:hover {
 .container {
     margin-top: 200px;
 }
+
+.pagina-quem-somos {
+    margin-top: 180px;
+}
+
+@media (max-width: 768px){
+
+    .topo-header{
+        padding: 15px 20px;
+        flex-wrap: wrap;
+    }
+
+    .busca{
+        max-width: 100%;
+        margin: 10px 0;
+    }
+
+    nav ul{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .carrossel{
+        height: 250px;
+    }
+
+    .raquetes-blocos,
+    .roupas-masculinas-blocos,
+    .roupas-femininas-blocos{
+        flex: 0 0 100%;
+    }
+
+    .produto{
+        flex-direction: column;
+        margin-top: 180px;
+        text-align: center;
+    }
+
+    .produto-info h1{
+        font-size: 24px;
+    }
+
+    .produto-info h2{
+        font-size: 28px;
+    }
+
+}

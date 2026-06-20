@@ -42,7 +42,7 @@
 
     <?php include 'header.php'; ?>
 
-    <div class="container">
+    <div class="container container-produtos">
 
         <h1 class="text-center mt-5">
             Produtos
