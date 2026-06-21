@@ -23,6 +23,7 @@
         p.preco,
         p.imagem,
         p.link,
+        p.promocao,
         c.nome AS categoria
     FROM produtos p
     INNER JOIN produto_categoria pc
@@ -64,6 +65,11 @@
 
             <button class="btn btn-outline-dark" onclick="mostrarProdutos('Roupas Femininas')">
                 Feminino
+            </button>
+
+            <button class="btn btn-outline-danger"
+                onclick="mostrarProdutos('promocao')">
+                    Promoções
             </button>
 
         </div>

@@ -4,6 +4,15 @@ function filtrarProdutos(lista, categoria){
         return lista;
     }
 
+    if(categoria === "promocao"){
+
+        console.log("Promoções clicado");
+
+        return lista.filter(
+            produto => produto.promocao == 1 || produto.promocao == "1"
+        );
+    }
+
     return lista.filter(
         produto => produto.categoria === categoria
     );
