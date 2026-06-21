@@ -658,6 +658,10 @@ nav ul li a:hover {
     margin-top: 180px;
 }
 
+.sucesso-contato {
+    margin-top: 140px;
+}
+
 @media (max-width: 768px){
 
     .topo-header{
