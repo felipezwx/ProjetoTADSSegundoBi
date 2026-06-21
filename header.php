@@ -27,16 +27,6 @@
                     <i class="fa-solid fa-magnifying-glass"></i>
                 </button>
             </form>      
-            
-            <div class="icones">
-                <div class="icon-user">
-                    <i class="fa-regular fa-user"></i>
-                </div>
-
-                <div class="icon-carrinho">
-                    <i class="fa-solid fa-cart-shopping"></i>
-                </div>
-            </div>
         </div>
 
         <nav>

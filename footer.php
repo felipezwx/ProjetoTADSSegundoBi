@@ -10,15 +10,7 @@
 </head>
 <body>
     <footer class="footer">
-
-        <div class="bandeiras-pagamento">
-            <img src="img/visa.png" alt="Visa">
-            <img src="img/mastercard.png" alt="MasterCard">
-            <img src="img/elo.png" alt="Elo">
-            <img src="img/pix.png" alt="Pix">
-        </div>
-
-        <p>Site desenvolvido por Felipe</p>
+        <p>© 2026 Be Fit Beach Tennis. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>

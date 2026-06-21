@@ -74,6 +74,8 @@
 
     </div>
 
+    <?php include 'footer.php'; ?>
+
     <script>
 
     const produtos = <?php echo json_encode($produtos); ?>;

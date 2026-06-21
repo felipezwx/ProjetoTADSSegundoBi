@@ -68,3 +68,5 @@ include 'header.php';
 <?php
 $conn->close();
 ?>
+
+<?php include 'footer.php'; ?>
